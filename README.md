@@ -42,7 +42,7 @@ converted to a grayscale image and blurred using the gaussian blur function. The
 best suitable for the task is (21,21). Then the blurred image is divided with the grayscale image to get
 the desired result. All the converted images are saved by the same file name as the original images
 hence replacing them. 
-```
+```python
 for i in class_names:
   files = glob(main_folder+"/"+i+"/*")
   for f in files: #iterates through the the 'files' list
