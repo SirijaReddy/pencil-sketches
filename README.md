@@ -15,7 +15,7 @@ and choose their desired image dataset to get a pencil sketch version of the sam
 this project is simply for the entertainment of the user who wishes to have pencil sketch versions of any
 of the image datasets present in the same folder as the code itself.
 
-###Design & Implementation
+### Design & Implementation
 To start off, we’ve imported the glob function from the glob module, opencv module, listdir function
 from os and time function from the time module. All the folders (excluding zip files and the .py files) 
 in the current working directory are displayed using the listdir function. The user is asked
