@@ -1,5 +1,5 @@
 # **Pencil-sketches**
-###Introduction
+### Introduction
 There are multiple reasons as to why someone would want to change a coloured image to a pencil
 sketch. One could perform this operation on an image dataset to extract important or significant
 features from the images. It could be used for pattern recognition and image morphology. It reduces the
