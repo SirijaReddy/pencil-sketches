@@ -22,7 +22,7 @@ in the current working directory are displayed using the listdir function. The u
 which dataset they’d like to convert to pencil sketches and the chosen dataset is passed through
 the get_data_from_folder() function. Here, the glob function is used to create an iterator containing the
 path locations of all the images. 
-```
+```python
 list_of_files = []
 for i in listdir():
   if not i.endswith('.py') and not i.endswith('.zip') and not i.endswith('.rar'):
